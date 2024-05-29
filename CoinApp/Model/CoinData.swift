@@ -6,7 +6,7 @@
 //
 
 import UIKit
-import Charts
+
 
 struct CoinData: Codable{
     let rate: Double
